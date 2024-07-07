@@ -1,0 +1,25 @@
+.full {
+  background-color: #223969;
+  color: #fff;
+}
+
+.up {
+  /* background-color: #212121; */
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.up img {
+  margin-top: 30px;
+}
+
+.down {
+  padding-left: 20px;
+}
+
+.down h2 {
+  color: #5db967;
+}
